@@ -1,11 +1,5 @@
 """
-CMPUT 175 - Assignment 1
 Author: Yousif Al-Anbaki
-Collaborators: None
-References:
-CMPUT 175 course notes, assignment PDF,
-Stack Overflow (syntax reminders),
-AI assistant (logic clarification and syntax fixes)
 """
 
 import random
