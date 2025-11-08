@@ -1,0 +1,5 @@
+U1, S301, Oliver, McKernan, 16, 4.80
+U72, B301, Oliver, McKernan, 22, 11.00
+U9, B205, Garneau, Ritchie, 2, 1.00
+U13, B002, Belgravia, Westmount, 21, 10.50
+U85, S405, Downtown, Ritchie, 25, 7.50

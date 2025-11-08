@@ -1,0 +1,101 @@
+Product_ID, Type, Area, Total_Travel_Time
+B001, Bike, Belgravia, 7
+B002, Bike, Westmount, 34
+B003, Bike, Belgravia, 49
+B004, Bike, Belgravia, 35
+B005, Bike, Belgravia, 18
+B101, Bike, McKernan, 58
+B102, Bike, McKernan, 16
+B103, Bike, McKernan, 34
+B104, Bike, McKernan, 24
+B105, Bike, McKernan, 30
+B201, Bike, Garneau, 22
+B202, Bike, Garneau, 57
+B203, Bike, Garneau, 30
+B204, Bike, Garneau, 40
+B205, Bike, Ritchie, 11
+B301, Bike, McKernan, 49
+B302, Bike, Oliver, 8
+B303, Bike, Oliver, 53
+B304, Bike, Oliver, 46
+B305, Bike, Oliver, 49
+B401, Bike, Downtown, 51
+B402, Bike, Downtown, 7
+B403, Bike, Downtown, 30
+B404, Bike, Downtown, 24
+B405, Bike, Downtown, 26
+B501, Bike, Strathcona, 56
+B502, Bike, Strathcona, 41
+B503, Bike, Strathcona, 17
+B504, Bike, Strathcona, 28
+B505, Bike, Strathcona, 54
+B601, Bike, Ritchie, 30
+B602, Bike, Ritchie, 23
+B603, Bike, Ritchie, 23
+B604, Bike, Ritchie, 16
+B605, Bike, Ritchie, 5
+B701, Bike, Westmount, 7
+B702, Bike, Westmount, 58
+B703, Bike, Westmount, 19
+B704, Bike, Westmount, 9
+B705, Bike, Westmount, 53
+B801, Bike, Bonnie Doon, 18
+B802, Bike, Bonnie Doon, 57
+B803, Bike, Bonnie Doon, 17
+B804, Bike, Bonnie Doon, 21
+B805, Bike, Bonnie Doon, 55
+B901, Bike, Highlands, 10
+B902, Bike, Highlands, 57
+B903, Bike, Highlands, 25
+B904, Bike, Highlands, 29
+B905, Bike, Highlands, 36
+S001, Scooter, Belgravia, 10
+S002, Scooter, Belgravia, 47
+S003, Scooter, Belgravia, 55
+S004, Scooter, Belgravia, 43
+S005, Scooter, Belgravia, 11
+S101, Scooter, McKernan, 46
+S102, Scooter, McKernan, 59
+S103, Scooter, McKernan, 48
+S104, Scooter, McKernan, 34
+S105, Scooter, McKernan, 36
+S201, Scooter, Garneau, 54
+S202, Scooter, Garneau, 34
+S203, Scooter, Garneau, 25
+S204, Scooter, Garneau, 20
+S205, Scooter, Garneau, 53
+S301, Scooter, Oliver, 10
+S302, Scooter, Oliver, 59
+S303, Scooter, Oliver, 46
+S304, Scooter, Oliver, 28
+S305, Scooter, Oliver, 8
+S401, Scooter, Downtown, 19
+S402, Scooter, Downtown, 10
+S403, Scooter, Downtown, 39
+S404, Scooter, Downtown, 14
+S405, Scooter, Downtown, 5
+S501, Scooter, Strathcona, 22
+S502, Scooter, Strathcona, 30
+S503, Scooter, Strathcona, 50
+S504, Scooter, Strathcona, 5
+S505, Scooter, Strathcona, 43
+S601, Scooter, Ritchie, 55
+S602, Scooter, Ritchie, 5
+S603, Scooter, Ritchie, 19
+S604, Scooter, Ritchie, 50
+S605, Scooter, Ritchie, 7
+S701, Scooter, Westmount, 48
+S702, Scooter, Westmount, 35
+S703, Scooter, Westmount, 56
+S704, Scooter, Westmount, 34
+S705, Scooter, Westmount, 52
+S801, Scooter, Bonnie Doon, 16
+S802, Scooter, Bonnie Doon, 54
+S803, Scooter, Bonnie Doon, 52
+S804, Scooter, Bonnie Doon, 18
+S805, Scooter, Bonnie Doon, 41
+S901, Scooter, Highlands, 20
+S902, Scooter, Highlands, 12
+S903, Scooter, Highlands, 33
+S904, Scooter, Highlands, 30
+S905, Scooter, Highlands, 46
